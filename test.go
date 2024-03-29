@@ -9,5 +9,5 @@ func main()
 
 func add(int:32 x, y) 
 {
-  return x + y;
+  return y + x;
 }
