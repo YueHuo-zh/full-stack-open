@@ -16,3 +16,7 @@ func sub(int:32 x, y)
 {
   return x - y;
 }
+
+func multiply(int:32 x, y) {
+  return x * y;
+}
